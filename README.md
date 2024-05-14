@@ -1,5 +1,5 @@
 # QAMD:Quality-Aware Blind Image Motion Deblurring
-This is the source code for [AL-IQA:Quality-Aware Blind Image Motion Deblurring](https://www.sciencedirect.com/science/article/abs/pii/S0031320324003194).![KG-IQA Framework](https://github.com/esnthere/QAMD/blob/main/framework.png)
+This is the source code for [QAMD:Quality-Aware Blind Image Motion Deblurring](https://www.sciencedirect.com/science/article/abs/pii/S0031320324003194).![KG-IQA Framework](https://github.com/esnthere/QAMD/blob/main/framework.png)
 
 ## Dependencies and Installation
 Pytorch: 2.1.2
