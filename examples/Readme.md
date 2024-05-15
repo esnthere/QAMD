@@ -9,7 +9,7 @@ Examples of severly blurry images:
  Cross-dataset test examples:
  ![Cross-dataset test examples](https://github.com/esnthere/QAMD/blob/main/examples/crossdataset_test.png)
  
- Intra-dataset test examples
+ Intra-dataset test examples:
  ![Intra-dataset test examples](https://github.com/esnthere/QAMD/blob/main/examples/intra_results.png)
  
  
