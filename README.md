@@ -8,10 +8,10 @@ Python: 3.11
 
 ## For test:
 ### 1. Motion deblurring 
-   The pre-trained models can be downloaded from: [Pre-trained models](https://pan.baidu.com/s/111iPWcQ7baaC5b771ZQ3Aw?pwd=j7pq). Please download the file and put them in the same folder of code, and then create a 'results' folder with subfolders of each dataset (such as 'Hide'). Finally, run '**deblurring.py**' for motion deblurring for each dataset, and the deblurred images will be saved in the subfolder.
+   The pre-trained models can be downloaded from: [Pre-trained models](https://pan.baidu.com/s/1KKebBvVjiMSE4H7G0oZcNw?pwd=r1oh). Please download the file and put them in the same folder of code, and then create a 'results' folder with subfolders of each dataset (such as 'Hide'). Finally, run '**deblurring.py**' for motion deblurring for each dataset, and the deblurred images will be saved in the subfolder.
    
 ### 2. Calculate values of DISTS and LPIPS  
-   The files in the folder of '**lpips'** are obtained from open accessed source code of [LPIPS](https://github.com/KaiyangZhou/CoOp) and the '**DISTS_pt.py**' is modified from  open accessed source code of [DISTS](https://github.com/KaiyangZhou/CoOp) . To calculate values of DISTS and LPIPS, please run  '**test_crossdatasets_dists_lpips.py**' and a 'mat' file containing all values of DISTS and LPIPS will be saved.
+   The files in the folder of '**lpips'** are obtained from open accessed source code of [LPIPS](https://github.com/richzhang/PerceptualSimilarity) and the '**DISTS_pt.py**' is modified from  open accessed source code of [DISTS](https://github.com/dingkeyan93/DISTS) . To calculate values of DISTS and LPIPS, please run  '**test_crossdatasets_dists_lpips.py**' and a 'mat' file containing all values of DISTS and LPIPS will be saved.
    
   
    
