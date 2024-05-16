@@ -33,9 +33,13 @@ The training code can be available at the 'training' folder.
   
   title={Quality-aware blind image motion deblurring}, 
   
-  year={2024},  
-  
-  doi={10.1016/j.patcog.2024.110568}
+  volume = {153},
+ 
+  pages = {110568},
+
+  year = {2024},
+
+  doi = {https://doi.org/10.1016/j.patcog.2024.110568},
   
 }
 
