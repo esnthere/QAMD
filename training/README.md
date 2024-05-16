@@ -1,11 +1,5 @@
 # QAMD:Quality-Aware Blind Image Motion Deblurring
 
-This is the training example of QAMD on the GOPRO and RealBlur-J dataset with the baseline archtecture of Restormer. The trainning process is the same for other datasets:
-
-链接：
-提取码：lv40 
---来自百度网盘超级会员V7的分享
-
 
 ## Dependencies and Installation
 Pytorch: 2.1.2
@@ -29,7 +23,6 @@ Python: 3.11
    
    The files in the folder of '**lpips'** are obtained from open accessed source code of [LPIPS](https://github.com/richzhang/PerceptualSimilarity) and the '**DISTS_pt.py**' is modified from  open accessed source code of [DISTS](https://github.com/dingkeyan93/DISTS) . 
 
-   The training example can be seen from '**run restormer_Gopro_dists_iqaft.ipynb**' and  '**run restormer_RealJ_dists_iqaft.ipynb**'.
 
 ## If you like this work, please cite:
 
