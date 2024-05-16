@@ -17,7 +17,7 @@ Python: 3.11
    
 ## 2. Training the model
 
-   Run'**restormer_Gopro_dists_iqaft.py**' to train the model. The model is modified  from open accessed source code of [Restormer](https://github.com/swz30/Restormer) and is pre-trained with patchsize of 128*128  on our device (Nidia TITANXP) as baseline, which can be obtained from: [Pre-trained models](https://pan.baidu.com/s/1YqQZaTRKPEdqYH3x6F4oJg?pwd=lv40 ). Please download the file and put them in the same folder of code, The model in '**myrestormer_arch.py**' and '**myrestormer_arch2.py**' are also modified from open accessed source code of [Restormer](https://github.com/swz30/Restormer). 
+   Run'**restormer_Gopro_dists_iqaft.py**' to train the model. The model is modified  from open accessed source code of [Restormer](https://github.com/swz30/Restormer) and is pre-trained with patchsize of 128*128  on our device (NVIDIA TITANXP) as baseline, which can be obtained from: [Pre-trained models](https://pan.baidu.com/s/1YqQZaTRKPEdqYH3x6F4oJg?pwd=lv40 ). Please download the file and put them in the same folder of code, The model in '**myrestormer_arch.py**' and '**myrestormer_arch2.py**' are also modified from open accessed source code of [Restormer](https://github.com/swz30/Restormer). 
    
    The IQA model '**efficientnet_3fc_norelu_drp05.py**' is modified from open accessed source code of [EfficientNet](https://github.com/lukemelas/EfficientNet-PyTorch/tree/master/efficientnet_pytorch), and the pre-trained model can be obtained at [Pre-trained models](https://pan.baidu.com/s/1YqQZaTRKPEdqYH3x6F4oJg?pwd=lv40 ).
    
