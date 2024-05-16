@@ -21,7 +21,7 @@ Python: 3.11
    
    The IQA model '**efficientnet_3fc_norelu_drp05.py**' is modified from open accessed source code of [EfficientNet](https://github.com/lukemelas/EfficientNet-PyTorch/tree/master/efficientnet_pytorch), and the pre-trained model can be obtained at [Pre-trained models](https://pan.baidu.com/s/1YqQZaTRKPEdqYH3x6F4oJg?pwd=lv40 ).
    
-   The files in the folder of '**lpips'** are obtained from open accessed source code of [LPIPS](https://github.com/richzhang/PerceptualSimilarity) and the '**DISTS_pt.py**' is modified from  open accessed source code of [DISTS](https://github.com/dingkeyan93/DISTS) . 
+   The files of '**DISTS_pt.py**' is modified from  open accessed source code of [DISTS](https://github.com/dingkeyan93/DISTS) and '**weights.pt**' contains the pre-trained weight. 
 
 
 ## If you like this work, please cite:
