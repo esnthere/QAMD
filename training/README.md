@@ -2,7 +2,9 @@
 
 This is the training example of QAMD on the GOPRO and RealBlur-J dataset with the baseline archtecture of Restormer. The trainning process is the same for other datasets:
 
-
+链接：
+提取码：lv40 
+--来自百度网盘超级会员V7的分享
 
 
 ## Dependencies and Installation
@@ -21,9 +23,9 @@ Python: 3.11
    
 ## 2. Training the model
 
-   Run'**restormer_Gopro_dists_iqaft.py**' to train the model. The model is pre-trained with patchsize of 128*128  on our device (Nidia TITANXP) as baseline, which can be obtained from: [Pre-trained models](https://pan.baidu.com/s/1sOqj_LGvtsHIN1pkCTh1yg?pwd=090d). Please download the file and put them in the same folder of code, The model in '**myrestormer_arch.py**' and '**myrestormer_arch2.py**' are modified from open accessed source code of [Restormer](https://github.com/swz30/Restormer). 
+   Run'**restormer_Gopro_dists_iqaft.py**' to train the model. The model is pre-trained with patchsize of 128*128  on our device (Nidia TITANXP) as baseline, which can be obtained from: [Pre-trained models](https://pan.baidu.com/s/1YqQZaTRKPEdqYH3x6F4oJg?pwd=lv40 ). Please download the file and put them in the same folder of code, The model in '**myrestormer_arch.py**' and '**myrestormer_arch2.py**' are modified from open accessed source code of [Restormer](https://github.com/swz30/Restormer). 
    
-   The IQA model is modified from open accessed source code of [EfficientNet](https://github.com/lukemelas/EfficientNet-PyTorch/tree/master/efficientnet_pytorch), and the pre-trained model can be obtained at [Pre-trained models](https://pan.baidu.com/s/1sOqj_LGvtsHIN1pkCTh1yg?pwd=090d).
+   The IQA model is modified from open accessed source code of [EfficientNet](https://github.com/lukemelas/EfficientNet-PyTorch/tree/master/efficientnet_pytorch), and the pre-trained model can be obtained at [Pre-trained models](https://pan.baidu.com/s/1YqQZaTRKPEdqYH3x6F4oJg?pwd=lv40 ).
    
    The files in the folder of '**lpips'** are obtained from open accessed source code of [LPIPS](https://github.com/richzhang/PerceptualSimilarity) and the '**DISTS_pt.py**' is modified from  open accessed source code of [DISTS](https://github.com/dingkeyan93/DISTS) . 
 
