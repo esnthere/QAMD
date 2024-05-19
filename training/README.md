@@ -23,6 +23,8 @@ Python: 3.11
    
    The files of '**DISTS_pt.py**' is modified from  open accessed source code of [DISTS](https://github.com/dingkeyan93/DISTS) and '**weights.pt**' contains the pre-trained weight. 
 
+   The example of training process on our device is shown in '**run restormer_RealJ_dists_iqaft.ipynb**'.
+
 
 ## If you like this work, please cite:
 
